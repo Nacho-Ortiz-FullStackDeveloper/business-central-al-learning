@@ -1,0 +1,10 @@
+
+**/.alpackages/
+**/.snapshots/
+**/.vscode/
+*.app
+*.log
+.env
+.env.*
+*.pfx
+*.key
